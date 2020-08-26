@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-
-
-[![bg][output]][github]
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/37112240/91343908-b5f07200-e7cc-11ea-9296-59083025ebf0.gif" width=50% /> 
+</p>
 
 <!--
 **Bill-Klay/Bill-Klay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
