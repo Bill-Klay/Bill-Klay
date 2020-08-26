@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 -->
 
 [github]: https://github.com/Bill-Klay
-[output](https://user-images.githubusercontent.com/37112240/91343908-b5f07200-e7cc-11ea-9296-59083025ebf0.gif)
+[output]: https://user-images.githubusercontent.com/37112240/91343908-b5f07200-e7cc-11ea-9296-59083025ebf0.gif
